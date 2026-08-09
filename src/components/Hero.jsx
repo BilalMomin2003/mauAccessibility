@@ -14,10 +14,10 @@ function Hero() {
 
       {/* Real accessibility photo from the public folder */}
       <img
-        className="hero-icon"
-        src="/accessibility.png"
-        alt="Accessibility illustration"
-      />
+  className="hero-icon"
+  src="accessibility.png"
+  alt="Accessibility illustration"
+/>
     </section>
   );
 }
